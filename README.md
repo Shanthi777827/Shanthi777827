@@ -18,13 +18,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
-
-<table>
-  <tr>
-    <td>
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=shanthi777827&show_icons=true&theme=radical" />
-    </td>
     <td>
       <h3>🔥 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanthi777827&layout=compact&theme=radical" />
